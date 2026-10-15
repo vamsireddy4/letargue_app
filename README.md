@@ -8,10 +8,13 @@ This repository tracks **LetArgue app versions**: release notes and downloads. T
 
 ## Download
 
-Get the latest version from **[Releases](../../releases)**:
+Get the latest version from **[Releases](../../releases)**, or from the [`versions`](versions) folder, which keeps every version:
 
-- **Mac:** `LetArgue.dmg`
-- **Windows:** `LetArgue_x.y.z_x64-setup.exe`
+| Version | Mac (Apple silicon) | Windows 10 / 11 (64-bit) | Notes |
+|---|---|---|---|
+| **0.1.0** (latest) | [LetArgue_0.1.0_mac_apple-silicon.dmg](versions/v0.1.0/LetArgue_0.1.0_mac_apple-silicon.dmg) | [LetArgue_0.1.0_windows_x64-setup.exe](versions/v0.1.0/LetArgue_0.1.0_windows_x64-setup.exe) | [Release notes](versions/v0.1.0/RELEASE_NOTES.md) |
+
+Each version folder has a `SHA256SUMS.txt` to check the download.
 
 ## What it does
 
