@@ -2,6 +2,16 @@
 
 All notable changes to the LetArgue app. Downloads are on the [Releases](../../releases) page.
 
+## 0.1.2 (2026-10-16)
+
+- No more endless waiting: stuck replies, screen steps and requests end with a clear message.
+- Nothing happens twice: one start per task, one use per approval, no double-clicks.
+- Honest results: an unfinished debate answer or team task is shown as such.
+- Chats cut off by closing the app are marked "Interrupted".
+- Safer: only LetArgue's own windows can reach the app; large or damaged attachments can't freeze it.
+- Account: sign-in locks for 15 minutes after repeated wrong passwords; signing out removes keys from this computer.
+- Sturdier storage against crashes.
+
 ## 0.1.1 (2026-10-15)
 
 - Intel Mac version (alongside Apple silicon and Windows).

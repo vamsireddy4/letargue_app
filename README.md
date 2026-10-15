@@ -12,7 +12,8 @@ Get the latest version from **[Releases](../../releases)**, or from the [`versio
 
 | Version | Mac (Apple silicon) | Mac (Intel) | Windows 10 / 11 (64-bit) | Notes |
 |---|---|---|---|---|
-| **0.1.1** (latest) | [Apple silicon .dmg](versions/v0.1.1/LetArgue_0.1.1_mac_apple-silicon.dmg) | [Intel .dmg](versions/v0.1.1/LetArgue_0.1.1_mac_intel.dmg) | [Windows setup .exe](versions/v0.1.1/LetArgue_0.1.1_windows_x64-setup.exe) | [Release notes](versions/v0.1.1/RELEASE_NOTES.md) |
+| **0.1.2** (latest) | [Apple silicon .dmg](versions/v0.1.2/LetArgue_0.1.2_mac_apple-silicon.dmg) | [Intel .dmg](versions/v0.1.2/LetArgue_0.1.2_mac_intel.dmg) | [Windows setup .exe](versions/v0.1.2/LetArgue_0.1.2_windows_x64-setup.exe) | [Release notes](versions/v0.1.2/RELEASE_NOTES.md) |
+| 0.1.1 | [Apple silicon .dmg](versions/v0.1.1/LetArgue_0.1.1_mac_apple-silicon.dmg) | [Intel .dmg](versions/v0.1.1/LetArgue_0.1.1_mac_intel.dmg) | [Windows setup .exe](versions/v0.1.1/LetArgue_0.1.1_windows_x64-setup.exe) | [Release notes](versions/v0.1.1/RELEASE_NOTES.md) |
 | 0.1.0 | [Apple silicon .dmg](versions/v0.1.0/LetArgue_0.1.0_mac_apple-silicon.dmg) | [Intel .dmg](versions/v0.1.0/LetArgue_0.1.0_mac_intel.dmg) | [Windows setup .exe](versions/v0.1.0/LetArgue_0.1.0_windows_x64-setup.exe) | [Release notes](versions/v0.1.0/RELEASE_NOTES.md) |
 
 Not sure which Mac you have? Apple menu → **About This Mac**: "Chip: Apple M…" means Apple silicon; "Processor: Intel" means Intel.
