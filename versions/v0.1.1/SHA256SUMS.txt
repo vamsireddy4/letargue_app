@@ -1,0 +1,3 @@
+2c445fffb38058be286dfe108c6732b16edd4f23b7a300d3d4f65892926916bf  LetArgue_0.1.1_mac_apple-silicon.dmg
+a371736789afe08295709c9ba6e9b6949a958593e4330bbdb69df88b5c16d107  LetArgue_0.1.1_mac_intel.dmg
+ffdb79c591a65832993eeb8012a83f45d6c0a649cc62830ab879faf492cc7204  LetArgue_0.1.1_windows_x64-setup.exe

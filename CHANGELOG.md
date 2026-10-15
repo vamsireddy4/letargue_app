@@ -2,6 +2,16 @@
 
 All notable changes to the LetArgue app. Downloads are on the [Releases](../../releases) page.
 
+## 0.1.1 (2026-10-15)
+
+- Intel Mac version (alongside Apple silicon and Windows).
+- New app icon: the logo, large, on a white tile that stays white in dark mode.
+- Menu bar icon fixed: a clean logo that matches the menu bar (was a white square).
+- Computer use about 40% faster per step.
+- Computer control on/off switch (Profile → Shortcuts).
+- Instant everyday commands: apps, sites, folders, songs, media keys and volume, without an AI.
+- Spoken requests are done on the computer; only writing goes to the chat.
+
 ## 0.1.0 (2026-10-15)
 
 First version, for Mac and Windows.
