@@ -4,6 +4,7 @@
 | | File |
 |---|---|
 | **Mac** (Apple silicon: M1, M2, M3, M4) | `LetArgue_0.1.0_mac_apple-silicon.dmg` |
+| **Mac** (Intel) | `LetArgue_0.1.0_mac_intel.dmg` |
 | **Windows** 10 and 11 (64-bit) | `LetArgue_0.1.0_windows_x64-setup.exe` |
 
 ### Opening it the first time
