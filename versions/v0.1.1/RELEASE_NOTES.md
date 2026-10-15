@@ -22,4 +22,4 @@ Not sure which Mac you have? Apple menu → **About This Mac**: "Chip: Apple M�
 - **Mac:** open the DMG and drag **LetArgue** to **Applications**. If macOS says it can't check the app, go to **System Settings → Privacy & Security** and click **Open Anyway**.
 - **Windows:** if SmartScreen appears, click **More info → Run anyway**.
 
-Questions: toolsdirectoryai@gmail.com or [@VamsiBuilds](https://x.com/VamsiBuilds).
+Questions: support@letargue.com or [@VamsiBuilds](https://x.com/VamsiBuilds).

@@ -22,4 +22,4 @@
 - **Images and video** made by your Grok account.
 - **Privacy:** chats stay on your computer; only your name, email and the keys you save are kept, encrypted.
 
-Questions: toolsdirectoryai@gmail.com or [@VamsiBuilds](https://x.com/VamsiBuilds).
+Questions: support@letargue.com or [@VamsiBuilds](https://x.com/VamsiBuilds).

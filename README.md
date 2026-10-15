@@ -37,4 +37,4 @@ Your chats stay on your computer. LetArgue's servers keep only your account: nam
 
 ## Support
 
-Email **toolsdirectoryai@gmail.com** or message [@VamsiBuilds](https://x.com/VamsiBuilds) on X.
+Email **support@letargue.com** or message [@VamsiBuilds](https://x.com/VamsiBuilds) on X.
