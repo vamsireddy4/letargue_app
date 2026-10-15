@@ -1,2 +1,2 @@
-50a6712e55f0e6f44939e354804ec9b4c40263f9b1e1012ad8fdb310009c45c1  LetArgue_0.1.0_mac_apple-silicon.dmg
-930055f909cdcd16d549c16ecb7bbf6a7b69e20b32e2f1650b26ebc65822bc17  LetArgue_0.1.0_windows_x64-setup.exe
+b3e8144a2f7f74af6b9b97bb8df9e1a908b1b13f2eb73d07705a08045db63bce  LetArgue_0.1.0_mac_apple-silicon.dmg
+e6f8ef5d7fe01bd91e1f9e2bba3ece4580be7827bb086d51986b9d772fc61130  LetArgue_0.1.0_windows_x64-setup.exe
